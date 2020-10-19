@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.data{
+  margin-top:20px;
+}
+.data h6,h4{
+  text-align: center;
+}
+.data button{
+  position: absolute;
+  top:20px;
+  right:20px;
+}
